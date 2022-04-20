@@ -4,13 +4,3 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ###### Encabeza nivel 6
 ![](https://images.unsplash.com/photo-1650428672848-439a9d47c849?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1171&q=80.jpg) con link
-
-##Listas numeradas
-
-1- elemento
-2- elemento
-
-##Lista no enumerada
-
-  - elemento 1
-  - elemento  2
