@@ -10,7 +10,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 1- elemento
 2- elemento
 
-##Lista no enumerada
-
+##Lista no enumerado
   - elemento 1
   - elemento  2
